@@ -1,4 +1,3 @@
-# House-Price-Prediction
 House Price Prediction App  
 
 This is a web application built with Python and Streamlit to predict house prices based on various input features. The app uses a machine learning model trained on historical housing data to provide accurate price estimates.
@@ -9,7 +8,10 @@ Features:
 -> Integration with a pre-trained machine learning model. 
 -> Easy to deploy and run locally or on a cloud platform.  
 
-Prerequisites: Python 3.8 or higher Pip package manager  
+Prerequisites: 
+Python 3.8 or higher.
+Pip package manager.
+
 Technologies Used: 
 Python: Core programming language. 
 Streamlit: Framework for building interactive web apps. 
