@@ -1,20 +1,20 @@
-House Price Prediction App  
+House Price Prediction App </br> 
+</br>
+This is a web application built with Python and Streamlit to predict house prices based on various input features. The app uses a machine learning model trained on historical housing data to provide accurate price estimates.</br>
+</br>
+Features:  </br> 
+-> User-friendly interface to input house details like area, number of rooms, location, etc. </br>
+-> Real-time house price prediction. </br>
+-> Integration with a pre-trained machine learning model. </br>
+-> Easy to deploy and run locally or on a cloud platform.  </br>
 
-This is a web application built with Python and Streamlit to predict house prices based on various input features. The app uses a machine learning model trained on historical housing data to provide accurate price estimates.
+Prerequisites: </br>
+Python 3.8 or higher.  </br>
+Pip package manager. </br>
 
-Features: 
--> User-friendly interface to input house details like area, number of rooms, location, etc.
--> Real-time house price prediction. 
--> Integration with a pre-trained machine learning model. 
--> Easy to deploy and run locally or on a cloud platform.  
-
-Prerequisites: 
-Python 3.8 or higher.
-Pip package manager.
-
-Technologies Used: 
-Python: Core programming language. 
-Streamlit: Framework for building interactive web apps. 
-Scikit-learn: This is for training and using the machine learning model. 
-Pandas: Data manipulation and preprocessing. 
-Numpy: Numerical computations.
+Technologies Used: </br>
+Python: Core programming language. </br> 
+Streamlit: Framework for building interactive web apps.  </br>
+Scikit-learn: This is for training and using the machine learning model. </br>
+Pandas: Data manipulation and preprocessing. </br>
+Numpy: Numerical computations. </br>
